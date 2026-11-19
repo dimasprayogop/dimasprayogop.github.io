@@ -40,7 +40,7 @@ const projects = [
             'CSS',
             'JavaScript'
         ],
-        repo: 'https://github.com/dimasprayogop/',
-        demo: href="#projects"
+        repo: 'https://github.com/dimasprayogop/dimasprayogop.github.io.git',
+        demo: "https://dimasprayogop.github.io"
     },
 ];
