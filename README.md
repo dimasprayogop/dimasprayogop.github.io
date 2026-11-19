@@ -1,3 +1,4 @@
+```
 portfolio/
 │
 ├── index.html
@@ -9,4 +10,4 @@ portfolio/
     └── js/
         ├── projects.js
         └── main.js
-        
+```
